@@ -11,7 +11,7 @@ harshkalmegh/harshkalmegh is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ### Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="100px" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" />][linkedin]
 
 <br />
