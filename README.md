@@ -1,6 +1,6 @@
 # 👋 I'm Harsh Kalmegh, A ReactJS Developer 
 
-![](https://github.com/amanjaintkg9509/CRUD-student-opertion-angular11-node-mongo-fastify/blob/main/frontend/src/assets/readme_images/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)
+![](file:///C:/Users/harsh%20kalmegh/Downloads/ezgif.com-gif-maker%20(1).gif)
 
 - 🌱 I’m currently learning React JS from Vidhya Classes
 - 💞️ I’m looking to collaborate on LinkedIn.
