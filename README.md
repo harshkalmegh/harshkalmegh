@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working as Software Developer in Tiggenera Solutions.
 - 💞️ I’m looking to collaborate on LinkedIn.
-- [Harsh Kalmegh Resume](https://drive.google.com/file/d/1B9aLVvXKrHRgWT-OKtsWsxohMfdk1Y_r/view?usp=sharing)
+- [Harsh Kalmegh Resume](https://drive.google.com/file/d/1L38cPvXzWBS1iocsuojkawfmX5YLbS8Z/view?usp=share_link)
 
 <!---
 harshkalmegh/harshkalmegh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
