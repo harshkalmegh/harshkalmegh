@@ -40,6 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-[twitter]: https://twitter.com/harsh_kalmegh
+[twitter]: https://twitter.com/harshkalmegh
 [linkedin]: https://www.linkedin.com/in/harshkalmegh/
 
